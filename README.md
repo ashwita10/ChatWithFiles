@@ -1,4 +1,4 @@
 # ChatGPT-Clone
-live links: 
-https://chatgpt-clone-1.streamlit.app/
-https://chatgpt-clone-wokp.onrender.com
+link1: https://chatgpt-clone-1.streamlit.app/
+
+link2: https://chatgpt-clone-wokp.onrender.com
