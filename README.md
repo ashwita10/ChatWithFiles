@@ -11,9 +11,9 @@ Welcome to the ChatGPT Clone! This project is a basic implementation of an AI ch
 
 ## Demo 📱
 
-- link1: https://chatgpt-clone-1.streamlit.app/
+- [Live Demo ✋](https://chatgpt-clone-1.streamlit.app/)
 
-- link2: https://chatgpt-clone-wokp.onrender.com
+- [Live Demo ✋](https://chatgpt-clone-wokp.onrender.com)
 
 
 ## Prerequisites
