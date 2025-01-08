@@ -14,12 +14,12 @@ import streamlit as st
 load_dotenv()
 
 # Initialize Cohere API client
-cohere_client = cohere.Client(os.getenv('7MAfg8N8YZ1oan4EAlVsOxM1tWDkx8YrAScMD00r'))
+cohere_client = cohere.Client(os.getenv('YOUR_COHERE_API_KEY'))
 
 # Initialize Pinecone client
 from pinecone import Pinecone, ServerlessSpec
 
-pc = Pinecone(api_key=os.getenv('pcsk_2P7JaT_5uhynorG2yiBBXwxt3sproMhCDAc16mEHnRkWfdaw8DLvPTkDski754ghgrm9iA'))
+pc = Pinecone(api_key=os.getenv('YOUR_PINECONE_API_KEY'))
 
 # Initialize session state
 if 'conversation' not in st.session_state:
